@@ -11,7 +11,7 @@ Mi Ciudad - Mi Municipio | Propuesta presentada a Municipalidad de Concepcion de
 
 
 ## 🚀 Sobre Mi
-Finalize la escuela secundaria (HIGH SCHOOL) en Concepcion del Uruguay, Entre Rios, Argentina. Recibido de Tecnico Electronico y programador Freelance.
+Finalicé la escuela secundaria (HIGH SCHOOL) en Concepcion del Uruguay, Entre Rios, Argentina. Recibido de Tecnico Electronico y programador Freelance.
 
 Actualmente me encuentro estudiando Lic en Sistema de informacion de las organizaciones, **UBA** y programando mi proyecto _Linkit_
 
