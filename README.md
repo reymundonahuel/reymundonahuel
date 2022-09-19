@@ -3,11 +3,13 @@
 
 Soy Nahuel Reymundo, programador Jr Fullstack web (MEAN), he creado algunos proyectos como:
 
-¿Como me movilizo? Concepcion del Uruguay (DEPRECATED)
+¿Como me movilizo? Concepcion del Uruguay
 
-Eventa - Eventos en Concepcion del Uruguay (REMOVED)
+Eventa - Eventos en Concepcion del Uruguay
 
-Mi Ciudad - Mi Municipio | Propuesta presentada a Municipalidad de Concepcion del Uruguay (REFUSED)
+Mi Ciudad - Mi Municipio | Propuesta presentada a Municipalidad de Concepcion del Uruguay
+
+Linkit - Miniblogging | Fullstack project
 
 
 ## 🚀 Sobre Mi
