@@ -11,11 +11,12 @@ Mi Ciudad - Mi Municipio | Propuesta presentada a Municipalidad de Concepcion de
 
 Linkit - Miniblogging | Fullstack project
 
+Estudiantes Concepcion | Fullstack project (estudiantesconcepcion.com)
 
 ## 🚀 Sobre Mi
-Finalicé la escuela secundaria (HIGH SCHOOL) en Concepcion del Uruguay, Entre Rios, Argentina. Recibido de Tecnico Electronico y programador Freelance.
+Finalicé la escuela secundaria (HIGH SCHOOL) en Concepcion del Uruguay, Entre Rios, Argentina. Recibido de Tecnico Electronico y fuí programador Freelance.
 
-Actualmente me encuentro estudiando Lic en Sistema de informacion de las organizaciones, **UBA** y programando mi proyecto _Linkit_
+Actualmente me encuentro estudiando Ingenieria en Sistemas UTN FRCU. Trabajando para Workmate SA
 
 
 ## 🛠 Algunas habilidades..
